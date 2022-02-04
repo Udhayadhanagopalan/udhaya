@@ -1,10 +1,1 @@
-hi i am udhaya hi git
-
-test commit
-change made by others
-new changes
-
-Feature changes
-
-creating new codes
-changes in the respository 
+Deleted the previous code
